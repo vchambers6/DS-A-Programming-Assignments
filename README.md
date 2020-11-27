@@ -13,4 +13,4 @@ PA2 is a Java program that implements a standard method and Strassen’s algorit
 
 *PA3*
 
-PA3 is a Java implementation of several partition algorithms (Karmarkar-Karp, Repeated Random, Pre-Partitioned Repeated Random, Hill Climbing, Pre-Partitioned Hill Climbing, Simulated Annealing, & Pre-Partitioned Simulated Annealing) and determines the most optimal partition algorithm based on residual and running-time. 
+PA3 is a Java implementation of several partition algorithms (Karmarkar-Karp, Repeated Random, Pre-Partitioned Repeated Random, Hill Climbing, Pre-Partitioned Hill Climbing, Simulated Annealing, & Pre-Partitioned Simulated Annealing), and it determines the most optimal partition algorithm based on residual and running-time. 
