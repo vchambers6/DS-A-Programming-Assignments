@@ -1,0 +1,13 @@
+---
+:id: 33673897
+:submitters:
+- :name: Chenai Mangachena
+  :email: chenai_mangachena@college.harvard.edu
+- :name: Vanessa Chambers
+  :email: vchambers@college.harvard.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2020-04-06 03:40:43.515531000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2020-04-05 20:40:43.515531000 Z
+:status: processed
